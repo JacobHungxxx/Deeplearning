@@ -1,2 +1,2 @@
 # Deeplearning
-My deeplearning assignments
+My deeplearning assignments on deeplearning.ai
